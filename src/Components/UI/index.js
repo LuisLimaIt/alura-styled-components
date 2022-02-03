@@ -41,3 +41,12 @@ export const Saldo = styled.div`
   font-weight: 700;
   font-size: 32px;
 `
+
+export const BtnTema = styled.button`
+  position: absolute;
+  top: 4vh;
+  rigth: 20px;
+  background-color: inherit;
+  border: none;
+  cursor: pointer;
+`
